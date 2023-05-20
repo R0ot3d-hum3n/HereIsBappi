@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Habibul Bashar Bappi.", "Designer.", "Developer.", "Freelancer.", "Cyber Researcer."],
+      strings: ["Habibul Bashar Bappi.", "Cyber Security Researcer.", "Penetration Tester", "Bug Bounty Hunter"],
       typeSpeed: 100,
       loop: true,
     });
